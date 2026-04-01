@@ -60,4 +60,12 @@
 
 ---
 
+<h3 align="center">⚡ Current Statistics ⚡</h3>
+
+---
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nakul-28&" alt="nakul-28" /></p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Nakul_Tanwar?theme=dark&font=Baloo&ext=heatmap" />
+</p>
