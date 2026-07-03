@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **nakultanwar28@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-mFZj8u5-q63MCbuXGVBhUtg4a1Kc5PK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Xt8klDl-ZTLVYFuNefn8vb04l73stJsb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
